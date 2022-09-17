@@ -1,4 +1,4 @@
-### Hi, I'm Jose F. Barboza 😊
+## Hi, I'm Jose F. Barboza 🤓👋
 
 ## 📱Contact 
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jose.f.barboza@outlook.com)
@@ -12,7 +12,6 @@
 ## Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Barboza&theme=prussian)](https://github.com/J-Barboza/J-Barboza)
 
-
 ## 🚀 Skills
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,6 +22,7 @@
     <img align="center" alt="c-charp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="react native" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><br>
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
@@ -49,4 +49,17 @@
     <img align="center" alt="origin" src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white" />
     <img align="center" alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
     <img align="center" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+    <img align="center" alt="" src="" />
+    <img align="center" alt="" src="" />
 </div>
+<div>
+<h2>Projects online</h2>
+
+### [Genius](https://j-barboza.github.io/)
+<img src="https://user-images.githubusercontent.com/90610113/168470194-68d0d0b8-6b24-4477-8ba6-2e77a80b19e7.jpg" style="height: 120px; width: 188px">
+
+### [Capture the Blue Bat](https://capture-bluebat.herokuapp.com/)
+<img src="https://i.postimg.cc/rFb9bvFs/start-Game.jpg" alt="Imagem da tela inicial do jogo" style="height: 120px; width: 188px">
+</div>
+
+---
