@@ -23,7 +23,8 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="react native" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><br>
+    <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 <div>
@@ -49,11 +50,12 @@
     <img align="center" alt="origin" src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white" />
     <img align="center" alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
     <img align="center" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-    <img align="center" alt="" src="" />
-    <img align="center" alt="" src="" />
 </div>
 <div>
-<h2>Projects online</h2>
+<br>
+<h2>Online game projects</h2>
+
+***educational only***
 
 ### [Genius](https://j-barboza.github.io/)
 <img src="https://user-images.githubusercontent.com/90610113/168470194-68d0d0b8-6b24-4477-8ba6-2e77a80b19e7.jpg" style="height: 120px; width: 188px">
@@ -63,3 +65,8 @@
 </div>
 
 ---
+### Auxiliaries
+
+- [Badges](https://github.com/Envoy-VC/awesome-badges)
+
+- [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats)
