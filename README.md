@@ -57,10 +57,10 @@
 
 ***educational only***
 
-### [Genius](https://j-barboza.github.io/)
+### [Genius]
 <img src="https://user-images.githubusercontent.com/90610113/168470194-68d0d0b8-6b24-4477-8ba6-2e77a80b19e7.jpg" style="height: 120px; width: 188px">
 
-### [Capture the Blue Bat](https://capture-bluebat.herokuapp.com/)
+### [Capture the Blue Bat](https://j-barboza.github.io/)
 <img src="https://i.postimg.cc/rFb9bvFs/start-Game.jpg" alt="Imagem da tela inicial do jogo" style="height: 120px; width: 188px">
 </div>
 
