@@ -7,11 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-f-barboza/)
 
 ## 📈 Github's Stats
-![Jose Barboza's GitHub stats](https://github-stats-extended.vercel.app/api?username=J-Barboza)
+![Jose Barboza's GitHub stats](https://github-stats-extended.vercel.app/api?username=J-Barboza&theme=prussian)
 
 
 ## Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Barboza&theme=prussian)](https://github.com/J-Barboza/J-Barboza)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=J-Barboza&theme=prussian)](https://github.com/J-Barboza/J-Barboza)
 
 ## 🚀 Skills
 <div style="display: inline_block"><br/>
