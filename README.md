@@ -11,7 +11,7 @@
 
 
 ## Top Languages Card
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=J-Barboza&theme=prussian)](https://github.com/J-Barboza/J-Barboza)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=J-Barboza&theme=prussian)
 
 ## 🚀 Skills
 <div style="display: inline_block"><br/>
@@ -69,9 +69,3 @@
 <img src="https://i.postimg.cc/rFb9bvFs/start-Game.jpg" alt="Imagem da tela inicial do jogo" style="height: 120px; width: 188px">
 </div>
 
----
-### Auxiliaries
-
-- [Badges](https://github.com/Envoy-VC/awesome-badges)
-
-- [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats)
