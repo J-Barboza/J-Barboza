@@ -8,6 +8,8 @@
 
 ## 📈 Github's Stats
 ![Jose Barboza's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Barboza&show_icons=true&theme=prussian)
+![Jose Barboza's GitHub stats](https://github-stats-extended.vercel.app/api?username=J-Barboza)](https://github.com/stats-organization/github-stats-extended)
+
 
 ## Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Barboza&theme=prussian)](https://github.com/J-Barboza/J-Barboza)
